@@ -101,7 +101,7 @@ html{
 #home h1 {
     color: white;
     text-align: center;
-    font-family: 'Passion One', cursive;
+   font-family: 'Roboto', sans-serif;
 }
 
 #home p {
@@ -208,7 +208,7 @@ html{
 
 #contact-box label {
     font-size: 1.2rem;
-    font-family: 'Passion One', cursive;
+    font-family: 'Roboto', sans-serif;
 }
 #contact-box .form-group input:hover{
     background-color: rgb(244, 221, 180);
@@ -231,7 +231,7 @@ footer {
 }
 
 .h-secondary {
-    font-family: 'Passion One', cursive;
+   font-family: 'Roboto', sans-serif;
     font-size: 2rem;
     padding: 10px;
 }
