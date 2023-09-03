@@ -50,7 +50,7 @@ html{
 /*Navigation bar : list styling */
 #navbar ul {
     display: flex;
-    font-family: 'Passion One', cursive;
+    font-family: cursive;
 }
 
 
